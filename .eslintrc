@@ -21,9 +21,7 @@
     "FileReader": true,
     "Blob": true,
     "navigator": true,
-    "registration": true,
-    "it": true,
-    "fetch": true
+    "it": true
   },
   "parser": "babel-eslint"
 }
